@@ -1,0 +1,11 @@
+streamlit
+matplotlib
+pandas
+email
+smtplib
+random
+string
+translate
+langdetect
+email_validator 
+datetime
